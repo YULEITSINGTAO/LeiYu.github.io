@@ -3,12 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "cookbook"
+  title: "Multi-omics Integration Cookbook"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Introduction
 
 format:
   html:
